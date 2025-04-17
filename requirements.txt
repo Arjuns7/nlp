@@ -2,4 +2,5 @@ langchain
 numpy
 ipykernel
 nltk
--e .
+pandas
+scikit-learn
